@@ -1,5 +1,5 @@
 {
-    "name": "appname",
+    "name": "project/project",
     "type": "project",
     "license": "MIT",
     "autoload": {
@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "Author",
-            "email": "AuthorName"
+            "email": "Author@mail.com"
         }
     ],
     "require": {
