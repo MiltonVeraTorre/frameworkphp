@@ -1,8 +1,9 @@
 // Crear un Nuevo Proyecto
-npx run init
+npm run init
+//Iniciar repositorio
+node git.js repositorio mensaje
+git init && git add -A && git remote add origin "tu repositorio" && git commit -m "Mensaje"
 //Comando de desarrollo
 npm run dev
-//Iniciar repositorio
-npm run git
 //Hacer deploy al main del repositorio
 npm run deploy
