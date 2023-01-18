@@ -1,0 +1,8 @@
+// Crear un Nuevo Proyecto
+npx run init
+//Comando de desarrollo
+npm run dev
+//Iniciar repositorio
+npm run git
+//Hacer deploy al main del repositorio
+npm run deploy
